@@ -30,3 +30,6 @@ Kohort 'n' Cohort Collaborator 'Portals' "Visualization 'dashboard' of 'performa
 Categorize / Taxonomize & Rank Performance / Badges in Projects & Sprints like:
 https://github.com/P1xt/chingu-fcc-speedrun-challenge/commit/482323e5173bb898096cea45f64131645d59b47b 
  * Filter results for efficiency suggestions.
+
+
+Quantitative & Qualitative measurements :: http://wikirate.org/Companies :: (hard-drive comparison link) :: ResearchAstute (combine aggregation / crowd-int / 'scraping' tech?)
